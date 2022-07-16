@@ -1,6 +1,6 @@
 # toggClone
 
-I adapted Tesla website to togg html with css and js
+I adapted Tesla website to togg html with css and js.
 
  ![image](https://user-images.githubusercontent.com/79603569/179375312-c17964c1-36e3-44d4-9b62-63b0120bffcb.png)
 ![image](https://user-images.githubusercontent.com/79603569/179375319-71aff228-7f50-4164-a583-fdd0deca326a.png)
